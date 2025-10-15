@@ -2,7 +2,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: SeansLifeArchive_Images_REPOLIST.urll
 //// A list of all SeansLifeArchive Image project repositories by @seanpm2001
-//// As of 2025, Monday, September 22nd
+//// As of 2025, Tuesday, October 14th
 
 //// Subprojects of the Sean Patrick Myrick Life Archive project
 
@@ -14,7 +14,7 @@
 //// Images ◀️ Current
 //// Other/undefined
 
-//// SeansLifeArchive / Images (375)
+//// SeansLifeArchive / Images (378)
 
 https://github.com/seanpm2001/SeansLifeArchive_Images
 https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory
@@ -391,6 +391,9 @@ https://github.com/seanpm2001/SeansLifeArchive_Images_Cannon_beach
 https://github.com/seanpm2001/SeansLifeArchive_Images_Browser-downloaded-images
 https://github.com/seanpm2001/SeansLifeArchive_Images_2048
 https://github.com/seanpm2001/Daily-desktop-screenshots
+https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower_Y2026
+https://github.com/seanpm2001/SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-_Y2026
+https://github.com/seanpm2001/SeansLifeArchive_Images_DiscoZoo_Y2026
 
 //// //// SeansLifeArchive / Images / Websites (13)
 
@@ -409,8 +412,8 @@ https://github.com/seanpm2001/SeansLifeArchive_Images_Disco-Zoo_Website
 https://github.com/seanpm2001/SeansLifeArchive_Images_Bit-City_Website
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (SeansLifeArchive Images): 388
-//// 375+13=388
+//// Repo count (SeansLifeArchive Images): 391
+//// 378+13=391
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -432,15 +435,15 @@ https://github.com/seanpm2001/Git-image
 //// Repo count (See also): 3
 //// 1+1+1=3
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 391
-//// 388+3=301
+//// Total repo count: 394
+//// 391+3=394
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2025, Monday, September 22nd at 07:42 pm PST)
-//// Line count (including blank lines and compiler line): 447
+//// File version: 2 (2025, Tuesday, October 14th at 05:32 pm PST)
+//// Line count (including blank lines and compiler line): 450
 //// ----------------------------------------------------- \\\\
 
 //// End of file
