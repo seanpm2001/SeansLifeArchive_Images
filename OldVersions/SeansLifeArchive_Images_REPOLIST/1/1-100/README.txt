@@ -2,7 +2,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: SeansLifeArchive_Images_REPOLIST.urll
 //// A list of all SeansLifeArchive Image project repositories by @seanpm2001
-//// As of 2025, Thursday, October 16th
+//// As of 2025, Friday, October 17th
 
 //// Subprojects of the Sean Patrick Myrick Life Archive project
 
@@ -14,7 +14,7 @@
 //// Images ◀️ Current
 //// Other/undefined
 
-//// SeansLifeArchive / Images (384)
+//// SeansLifeArchive / Images (385)
 
 https://github.com/seanpm2001/SeansLifeArchive_Images
 https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory
@@ -400,6 +400,7 @@ https://github.com/seanpm2001/SeansLifeArchive_Images_AdCom_Y2026
 https://github.com/seanpm2001/SeansLifeArchive_Images_AdCap_Y2026
 https://github.com/seanpm2001/SeansLifeArchive_Images_Clash-of-Clans_Y2026
 https://github.com/seanpm2001/SeansLifeArchive_Images_Boom-Beach_Y2026
+https://github.com/seanpm2001/SeansLifeArchive_Images_Internet-Archive_Y2026
 
 //// //// SeansLifeArchive / Images / Websites (13)
 
@@ -418,8 +419,8 @@ https://github.com/seanpm2001/SeansLifeArchive_Images_Disco-Zoo_Website
 https://github.com/seanpm2001/SeansLifeArchive_Images_Bit-City_Website
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (SeansLifeArchive Images): 397
-//// 384+13=397
+//// Repo count (SeansLifeArchive Images): 398
+//// 385+13=398
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -441,15 +442,15 @@ https://github.com/seanpm2001/Git-image
 //// Repo count (See also): 3
 //// 1+1+1=3
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 400
-//// 397+3=400
+//// Total repo count: 401
+//// 398+3=401
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 4 (2025, Thursday, October 16th at 06:49 pm PST)
-//// Line count (including blank lines and compiler line): 456
+//// File version: 5 (2025, Friday, October 17th at 07:28 pm PST)
+//// Line count (including blank lines and compiler line): 457
 //// ----------------------------------------------------- \\\\
 
 //// End of file
